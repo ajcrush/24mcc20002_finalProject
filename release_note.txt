@@ -1,1 +1,2 @@
 Initial release notes
+Version 1.0 changes: Initial stable release
